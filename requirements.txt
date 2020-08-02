@@ -1,0 +1,18 @@
+1. Webpack - сборщик проектов.
+     - Babel
+     - Scss
+     - ESlint
+     - 2 modes (dev: devServer, sourceMaps, ESlint, notMinifiedJS&CSS; prod: minifiedCode)
+
+2. Git - система контроля версий
+     - git-flow (всегда есть 2 версии приложения - prod и dev)
+
+      - Production
+        1.0.0
+        0 -----------
+      - Development
+        1.0.2
+        1 -------------
+        2 ----------------
+
+3. 
